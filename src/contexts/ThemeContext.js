@@ -21,3 +21,4 @@ class ThemeContextProvider extends Component {
 }
 
 export default ThemeContextProvider;
+// Creating Context with class Components
